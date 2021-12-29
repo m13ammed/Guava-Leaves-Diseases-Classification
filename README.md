@@ -9,6 +9,6 @@ Accuracies of:
 - 97.7% for the custom built CNN-AE 
 - 99.4% for the EfficientNet-b0
 
-in collaboration with: https://github.com/m13ammed
+in collaboration with: https://github.com/Yacoub-Abulubad
 
 data: https://github.com/MHR12/BU_Guava_Leaf-BUGL2018
